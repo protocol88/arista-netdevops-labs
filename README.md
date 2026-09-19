@@ -1,5 +1,3 @@
-# arista-netdevops-labs
-
 # Arista NetDevOps Labs
 
 Hands-on networking and automation labs using Arista EOS/cEOS,
